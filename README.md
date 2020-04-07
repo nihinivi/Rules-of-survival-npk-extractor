@@ -1,17 +1,17 @@
 Need python 3
 how to use:
 
-step1:
-git clone this repository
+**step1:**
+git clone this repository and enter the directory
 
-step2:
+**step2:**
 install python3
 
-step3:
+**step3:**
 ```
 python3 Extractor.py
 ```
-This is a fixed script if you are owner please tell ill add your name your this
+**This is a fixed script if you are owner please tell ill add your name your this**
 
 
 
