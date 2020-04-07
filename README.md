@@ -1,9 +1,5 @@
 **Need python 3**
 
-**How to use**
-
-
-
 **step1:**
 ```
 git clone https://github.com/nihinivi/Rules-of-survival-npk-extractor.git
