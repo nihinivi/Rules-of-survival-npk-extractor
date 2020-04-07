@@ -17,8 +17,8 @@ cd Rules-of-survival-npk-extractor
 ```
 python3 Extractor.py
 ```
-**This is a fixed script if you are owner please tell ill add your name your this
+**This is a fixed script if you are owner please tell ill add your name your this**
 
-**And any problems caused by this is not responsible by me this just made for educational purpose**
+**And any problems caused by this is not responsible by me this is made for educational purpose only**
 
 
