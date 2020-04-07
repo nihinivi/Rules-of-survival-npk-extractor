@@ -6,9 +6,7 @@ git clone https://github.com/nihinivi/Rules-of-survival-npk-extractor.git
 ```
 
 **step2:**
-```
-cd Rules-of-survival-npk-extractor
-```
+```cd Rules-of-survival-npk-extractor```
 **step3:**
 ```
 python3 Extractor.py
